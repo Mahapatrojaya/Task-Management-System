@@ -1,4 +1,4 @@
-# Task Management Application
+# Task Management System
 
 This is a Java Spring Boot application that allows users to manage their tasks. Users can create tasks, mark them as complete or incomplete, edit task descriptions and due dates, and delete tasks. The application also includes user authentication and security features to protect user data.
 
@@ -22,8 +22,8 @@ cd task-management-System
 
 ```
 spring.datasource.url=jdbc:mysql://localhost:3306/task_management
-spring.datasource.username=sqlusers
-spring.datasource.password=gutu
+spring.datasource.username=root
+spring.datasource.password=root
 spring.jpa.hibernate.ddl-auto=update
 ```
 
