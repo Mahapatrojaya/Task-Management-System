@@ -9,7 +9,7 @@ To install and run the application, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/gutudanii/Task-Management-System.git
+git git@github.com:Mahapatrojaya/Task-Management-System.git
 ```
 
 2. Navigate to the project directory:
@@ -88,35 +88,26 @@ The application uses Spring Security to provide user authentication and authoriz
 
 Here are some screenshots of the Task Management application:
 
-![Dashboard](/screenshot/dash.png)
 
-![new Task](/screenshot/newCreate.png)
 
-![new Task](/screenshot/newCreate2.png)
 
-![new Task](/screenshot/newCreate3.png)
 
-![Dashboard](/screenshot/dashFill.png)
 
-![Dashboard](/screenshot/dashFill1.png)
 
-![Dashboard](/screenshot/dashFill2.png)
+![Dashboard](/screenshot/DashBoardPage.png)
 
-![Dashboard](/screenshot/dashFill3.png)
+![Edit Task](/screenshot/EditTaskPage.png)
 
-![Dashboard](/screenshot/dashFill4.png)
 
-![Dashboard](/screenshot/dashFill5.png)
+![Edit&delete Task](/screenshot/Edit&DeleteTask.png)
 
-![Edit Task](/screenshot/edit.png)
+![Create Task](/screenshot/CreateTaskPage.png)
 
-![Login Task](/screenshot/edit.png)
+![RegistrationPage](/screenshot/RegistrationPage.png)
 
-![Sign Up](/screenshot/logError.png)
+![Logout](/screenshot/LogOutPage.png)
 
-![Login](/screenshot/logout.png)
-
-![sign](/screenshot/sign.png)
+![login](/screenshot/LoginPage.png)
 
 
 ## Technologies Used
@@ -139,7 +130,7 @@ If you would like to contribute to the development of this application, please f
 2. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/gutudanii/Task-Management-System.git
+   git clone git@github.com:Mahapatrojaya/Task-Management-System.git
    ```
 
 3. Create a new branch for your changes:
